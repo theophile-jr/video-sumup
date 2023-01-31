@@ -1,0 +1,22 @@
+{
+  "name": "video-sumup",
+  "version": "1.0.0",
+  "description": "sump up a video by captions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theophile-jr/video-sumup.git"
+  },
+  "author": "Théophile JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theophile-jr/video-sumup/issues"
+  },
+  "homepage": "https://github.com/theophile-jr/video-sumup#readme",
+  "dependencies": {
+    "openai": "^3.1.0"
+  }
+}
