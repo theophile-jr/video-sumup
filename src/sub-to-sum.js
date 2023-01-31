@@ -1,7 +1,7 @@
 const { Configuration, OpenAIApi } = require("openai");
 const { __esModule } = require("youtube-captions-scraper");
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 
